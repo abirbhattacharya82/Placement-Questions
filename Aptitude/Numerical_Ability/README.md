@@ -73,11 +73,21 @@ Soln: Increase in runs = 2X11 = 22runs. <br>
 Therefore new total of three new innings = 32+33+34+22 = 121 runs. <br>
 Therefore Average of new 3 innings is 121/3 = 40.3333runs <br>
 
+Q10) The average of 11 numbers is 10.9. If the average of first six is 10.5 and that of the last six is 11.4 the sixth number is? <br>
+Soln: Sixth Number = (Average of first six X 6)+(Average of last six X 6)-(Average of 11 number X 11) .'. 11.5 <br>
+
+Q11) The average of 1st 3 of 4 numbers is 16 and of the last 3 are 15. If the sum of the first and the last number is 13. What is the last numbers? <br>
+Soln: A+B+C = 16x3 = 48.......(i)<br>
+B+C+D = 15x3 = 45......(ii)<br>
+(i)-(ii)=> A-D = 3 <br>
+A+D  = 13 <br>
+.'. D = 5 <br>
+
 ### Time and Distance
 
 ### Profit and Loss
 
-### Simple Interest
+### Simple Interest and Compound Interest
 
 ### Time and Work
 
