@@ -86,7 +86,30 @@ B+C+D = 15x3 = 45......(ii)
 A+D  = 13 
 .'. D = 5 
 ```
+
 ### Time and Distance
+```
+Q1) If Pratik walks from his house at 15kmph he reaches school 5min early and if he walks from his house at 10kmph then he reaches 5min late. What is the distance between his house and the school?
+[Hint: D=((s1*s2)*Δt)/(s1-s2)]
+Soln: 5km.
+
+Q2) A bus is going at a uniform speed. If it had been 6kmph faster then it could have taken 4hr less. If it had been 6kmph slower then it could have taken 6hr more. What is the lenght of the journey?
+Soln: 720km
+
+Q3) A car leaves the city at 5pm and is driven at a speed of 40kmph. 2hr later another car leaves the city and is driven at the same direction at 60kmph. How long will it take for Car B to be 9km ahead of Car A?
+Soln: 4.45hr
+
+Q4) Two cars starts from A to B and travel towards each other at a speed of 50kmph and 60kmph respectively. At the time of their meeting Car B has travelled 120km more than Car A. The distance between Car A and Car B at the beginning is?
+Soln: 1320km.
+
+Q5) Two cars start from the same point at the same time towards the same destination which is 420km away. Thr first car and second car have 60kmph and 90kmph speed respectively. After a certain time their speeds get interchanged and th second car reach 1hr earlier than the first car. Find the time when they interchanged.
+Soln: 4hr.
+
+Q6) Jake and Paul each walk 10 km. The speed of jack is 1.5 faster than paul speed . Jack reaches the destination 1.5hrs before paul .Then Jake's speed is equal to?
+Soln: 4kmph
+
+
+```
 
 ### Profit and Loss
 
