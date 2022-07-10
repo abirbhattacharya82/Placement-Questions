@@ -108,10 +108,27 @@ Soln: 4hr.
 Q6) Jake and Paul each walk 10 km. The speed of jack is 1.5 faster than paul speed . Jack reaches the destination 1.5hrs before paul .Then Jake's speed is equal to?
 Soln: 4kmph
 
-
+Q7) A man covers a certain distance at 40kmph and returns to the starting point at 60kmph. Find his average speed.
+Soln: 48kmph
 ```
 
 ### Profit and Loss
+```
+Q1) A reduction of 20% in the price of sugar enables a person to buy 2kg more for 50Rs. Find the reduced and original price of the sugar.
+Soln: 1kg sugar = 25Rs
+Reduced Price= (25x20)/100 = 5Rs
+Original Price= (5x100)/(100-20) = 6.25Rs
+
+Q2) A 10% hike in the price of rice forces a person to purchase 3kg less for Rs 660. Find the increased price and original price.
+Soln: 22Rs and 20Rs
+
+Q3) In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?
+[Hint: Take CP as 100]
+Soln: 70%
+
+Q4) A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:
+Soln: 5%
+```
 
 ### Simple Interest and Compound Interest
 
