@@ -146,6 +146,29 @@ Soln: 500Rs
 
 Q5) A sum is invested in a scheme where the interest gets compounded quarterly grows to Rs 140000 and Rs 157304 respectively. What is the rate of the interest per annum?
 Soln: 24
+
+Q6) Calculate the actual rate of interest corresponding to an itemized rate of 9% compound semi-annually.
+Soln: 9.2%
+
+Q7) If a particular sum of money gets doubled in 20 years at compound interest, then how much time will it take for that amount to become eight times?
+Soln: P becomes 2P in 20 years
+2P become 4P in 40 years
+4P becomes 8P in 60 years.
+
+Q8) A person takes a loan of 20,000 partly from a bank at 8% per annum and remaining from another bank at 10% per annum. Total interest on this he pays as 1950 per annum. Then what is the amount he took from the first bank?
+Soln: Let's assume if the person takes a loan of x from first bank and y from second bank. Hence according to given information:
+Interest at 8%= 8% of 20000=1600
+Interest at 10%= 10% of 20000=2000
+Total interest=1950
+The ratio of money taken=
+(2000-1950) : (1950-1600)
+=50: 350
+=1:7
+Money taken from first bank = 20,000 x (1/8) = 2500
+
+Q9) A man borrows Rs 4000 for 2 years @ 15% per annum compounded annually. He repays Rs 2000 at the end of each year. How much does he still owe after the second installment?
+[Hint: No short tricks sadly]
+Soln: 990Rs
 ```
 
 ### Time and Work
