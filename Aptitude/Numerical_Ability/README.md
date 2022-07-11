@@ -131,6 +131,22 @@ Soln: 5%
 ```
 
 ### Simple Interest and Compound Interest
+```
+Q1) Find the compound interest on 12000 for 2 years at 5% per annum.
+Soln: 1230Rs
+
+Q2) The CI on Rs 30000 at 7% per annum is Rs 4347. The period in years is?
+Soln: 2
+
+Q3) The difference between simple and compund interest compounded anually on a certain sum of money for 2 years at 4% per annum is 1Rs. The sum is?
+Soln: 625Rs
+
+Q4) The difference between compund and simple interest on a certain sum of money for 3 years at a rate of 10% per annum is 15Rs 50paisa. What is the sum?
+Soln: 500Rs
+
+Q5) A sum is invested in a scheme where the interest gets compounded quarterly grows to Rs 140000 and Rs 157304 respectively. What is the rate of the interest per annum?
+Soln: 24
+```
 
 ### Time and Work
 
