@@ -172,5 +172,41 @@ Soln: 990Rs
 ```
 
 ### Time and Work
+```
+Q1) If A completes a work in 10 days and B completes a work in 15 days. How many days will they take to complete the same work if they work together?
+Soln: 6 days
+
+Q2) If A and B does a Job in 15 days. B alone does the work in 20 days. How many days will A take to complete it alone?
+Soln: 60 days
+
+Q3) Abir works twice as fast as Saptarshi. If Abir and Saptarshi takes 12 days to complete a task then how many days would Abir take to complete the task alone?
+Soln: Abir:Saptarshi = 2:1
+Abir will take (12X3)/2 = 18days.
+
+Q4) If A completes 1/2 part of a work in 5 days, B completes 3/5 part of a work in 9 days and C completes 2/3 part of a work in 8 days. How many days they will take if they work together?
+Soln: 4 days.
+
+Q5) A does a work in 12 days. B is 60% more efficient compared to A. How many days would B take to do the same work?
+Soln: 7.5days
+
+Q6) A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?
+Soln: one day work done by A=1/20
+work done by A in 2 days=1/10
+work done by A,B,C on 3rd day=1/20+1/30+1/60=1/10
+total work done in 3 days= 1/10+1/10= 1/5
+1/5th of the work will be completed at the end of 3 days
+the remaining work =1-1/5=4/5
+4/5 of work will be completed 1/5*5/4*3= 12 days
+total work wiil be done in  3+12 =15 days
+
+Q7) 4 men can check exam papers in 8 days working 5 hours regularly. What is the total hours when 2 men will check the double of the papers in 20 days?
+Soln: total work done=4*8*5=160units
+now work=2*160=320units
+now,2 men work for 20days,let x be the hours.
+therefore, 2*20*x=320
+x=8 hours
+
+
+```
 
 ### HCF and LCM
