@@ -205,8 +205,34 @@ now work=2*160=320units
 now,2 men work for 20days,let x be the hours.
 therefore, 2*20*x=320
 x=8 hours
-
-
 ```
 
 ### HCF and LCM
+```
+Q1) Find the greatest number that will divide 148 246 and 623 leaving remainders 4 6 and 11 respectively?
+Soln: 148-4 = 144
+246-6 = 240
+623-11 = 612
+HCF of (144,240,612) = 12
+
+Q2) For any two numbers we define an operation $ yielding another number, X $ Y such that following condition holds:
+• X $ X = 0 for all X
+• X $ (Y $ Z) = X $ Y + Z
+Find the Value of 2012 $ 0 + 2012 $ 1912?
+Soln: Here $ represent the - operator (subtraction)
+so X - X = 0 first condition
+X $ (Y $ Z) = X - (Y - Z) = X - Y+ Z
+It can be written as X $ Y + Z
+Example: 2012 - 0 + 2012 - 1912 = 2112
+
+Q3) If the numbers 5075, 3584 and 2732 are divided by the greatest number d, then the remainder in each case is r. Then what will ve the value of (3d-2r)?
+Soln: a=2732
+b=3584
+c=5075
+b-a=852
+c-b=1491
+c-a=2343
+HCF of (852,1491,2343) = 213 (d)
+dividing 2732 by 213 you will get r
+thus the answer is 287
+```
